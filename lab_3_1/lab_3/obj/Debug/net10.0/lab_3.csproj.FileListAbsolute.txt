@@ -1,0 +1,15 @@
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/obj/Debug/net10.0/lab_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/obj/Debug/net10.0/lab_3.AssemblyInfoInputs.cache
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/obj/Debug/net10.0/lab_3.AssemblyInfo.cs
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/obj/Debug/net10.0/lab_3.csproj.CoreCompileInputs.cache
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/obj/Debug/net10.0/lab_3.sourcelink.json
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/bin/Debug/net10.0/lab_3
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/bin/Debug/net10.0/lab_3.deps.json
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/bin/Debug/net10.0/lab_3.runtimeconfig.json
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/bin/Debug/net10.0/lab_3.dll
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/bin/Debug/net10.0/lab_3.pdb
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/obj/Debug/net10.0/lab_3.dll
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/obj/Debug/net10.0/refint/lab_3.dll
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/obj/Debug/net10.0/lab_3.pdb
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/obj/Debug/net10.0/lab_3.genruntimeconfig.cache
+/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/obj/Debug/net10.0/ref/lab_3.dll

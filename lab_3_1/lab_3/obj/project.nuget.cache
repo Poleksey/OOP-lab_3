@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pPqKTcTXto0=",
+  "success": true,
+  "projectFilePath": "/home/poleksey/ITMO/2 rech/oop/3_lab/lab_3_1/lab_3/lab_3.csproj",
+  "expectedPackageFiles": [
+    "/home/poleksey/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
